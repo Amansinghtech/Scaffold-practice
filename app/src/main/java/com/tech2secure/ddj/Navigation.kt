@@ -33,10 +33,10 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.tech2secure.ddj.main.Chats
-import com.tech2secure.ddj.main.Dashboard
 import com.tech2secure.ddj.main.ProfilePage
 import com.tech2secure.ddj.main.SettingsPage
 import com.tech2secure.ddj.main.Shorts
+import com.tech2secure.ddj.main.dashboard.Dashboard
 
 object Routes {
     const val DASHBOARD_PAGE = "dashboard"
